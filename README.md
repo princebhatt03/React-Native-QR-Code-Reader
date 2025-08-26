@@ -51,26 +51,21 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/qrreaderapp.git
-cd qrreaderapp
+git clone <your_github_repo_url>
+cd <folder_name>
 ```
 
 2. **Install dependencies**
 
 ```bash
 npm install
-# or
-yarn install
 ```
 
 3. **Run the app**
 
 ```bash
-# iOS
-npx react-native run-ios
-
-# Android
-npx react-native run-android
+# expo
+npx expo start
 ```
 
 ---
